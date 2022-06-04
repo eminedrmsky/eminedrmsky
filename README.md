@@ -7,4 +7,11 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emine-durmu%C5%9Fkaya-020217182/)  and eminedurmuskaya123@gmail.com
 
 
+## 📈 Github Stats
+
+<a href="https://github.com/utqkaba">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utqkaba&hide=shell,jupyter notebook,&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" />
+</a>
+
+
 <br/>
