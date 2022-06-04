@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**eminedrmsky/eminedrmsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Emine Durmuşkaya. :slightly_smiling_face:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently developing and working on myself in the fields of Embedded System Design and Image Processing.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emine-durmu%C5%9Fkaya-020217182/)  and eminedurmuskaya123@gmail.com
+  
+
+
+
+## 📈 Github Stats
+
+<a href="https://github.com/eminedrmsky">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminedrmsky&hide=shell,jupyter notebook,&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" />
+</a>
+
+
+<br/>
