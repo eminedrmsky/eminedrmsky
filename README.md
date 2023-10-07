@@ -6,7 +6,4 @@
 - 🌱 I’m currently developing and working on myself in the fields of Embedded System Design and Image Processing.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emine-durmu%C5%9Fkaya-020217182/)  and eminedurmuskaya123@gmail.com
 
-## 📈 Github Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eminedrmsky&layout=compact)
 
